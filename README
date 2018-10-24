@@ -1,0 +1,3 @@
+Restore with ./restore VM-name.
+
+Put secret access token to auth_token file in the same catalogue and adjust your tenant settings in launch_opendata.riik.ee.sh .
