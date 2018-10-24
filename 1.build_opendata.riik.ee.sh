@@ -5,7 +5,7 @@ export OPENDATA_GIT_REPO=https://github.com/keeganmcbride/jkan.git
 
 if [ ! -d opendata-jkan ]
 then
-    git clone https://github.com/keeganmcbride/jkan.git opendata-jkan
+    git clone $OPENDATA_GIT_REPO opendata-jkan
 else
     cd opendata-jkan
     git pull
