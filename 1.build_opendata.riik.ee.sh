@@ -1,7 +1,7 @@
 #!/bin/sh
 
 export JEKYLL_VERSION=3.8
-export OPENDATA_GIT_REPO=https://github.com/keeganmcbride/jkan.git
+export OPENDATA_GIT_REPO=https://github.com/okestonia/jkan.git
 
 if [ ! -d opendata-jkan ]
 then
